@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Leonardo Hughes launches site"
+date: 2019-06-10
 ---
 
 Well. Finally got around to putting this old website together. 
