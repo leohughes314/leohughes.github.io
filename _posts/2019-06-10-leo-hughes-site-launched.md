@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leonardo Hughes launches site"
-date: 2019-06-10
+date: 2025/02/25
 ---
 
 Well. Finally got around to putting this old website together. 
